@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import { WithClass } from "../HOC/WithClass";
-import AuthContext from "../context/Auth-context";
+//import AuthContext from "../context/Auth-context";
 
 export default function Person(props) {
   console.log(props);
